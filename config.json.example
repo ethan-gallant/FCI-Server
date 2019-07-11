@@ -1,0 +1,13 @@
+{
+  "api-keys": [
+    "Secret Key",
+    "It can be a a header or even a user agent!"
+  ],
+  "listen-port": "3000",
+  "share-location": "\\\\MyA-ZServer\\OpenDental\\Files\\",
+  "mysql-host": "OpenDentalServer",
+  "mysql-user": "root",
+  "mysql-password": "VerySecret",
+  "mysql-database": "opendental",
+  "verbose": "true"
+}
